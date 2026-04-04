@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20I'm%20Shravya%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,50:feb47b,100:6a11cb&height=200&section=header&text=Hi%20I'm%20Shravya%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 </div>
 
@@ -10,9 +10,9 @@
 <!-- ================= INTRO ================= -->
 ## 👩‍💻 Hi there! I'm **Shravya**
 
-🚀 Aspiring Full-Stack Developer passionate about building **robust and scalable applications**  
-💡 I love creating apps, websites, and solving real-world problems  
-🌱 Currently learning **React, Java Backend & Cloud Technologies**
+🚀 Aspiring Full-Stack Developer passionate about building **robust, scalable, and high-performance applications**  
+💡 I enjoy turning ideas into real-world projects  
+🌱 Currently learning **React, Java Backend & Cloud**
 
 ---
 
@@ -21,12 +21,12 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 </div>
 
@@ -61,12 +61,12 @@
 
 <div align="center">
 
-| Project | Description |
-|--------|------------|
-| Expense Tracker | Smart expense tracker with alerts <br> 🛠️ Java • React |
-| Huffman Compressor | Text compression using Huffman coding <br> 🛠️ Java |
-| Portfolio Website | Personal portfolio with modern UI <br> 🛠️ HTML • CSS • JS |
-| Chat App | Offline chat application <br> 🛠️ Node.js |
+| 🌟 Project | 📌 Description |
+|-----------|--------------|
+| **Expense Tracker** | Smart expense tracker with alerts <br> 🛠️ Java • React |
+| **Huffman Compressor** | File compression using Huffman coding <br> 🛠️ Java • Spring Boot |
+| **Portfolio Website** | Personal portfolio with modern UI <br> 🛠️ HTML • CSS • JS |
+| **Chat App** | Offline chat application <br> 🛠️ Node.js |
 
 </div>
 
@@ -75,6 +75,6 @@
 <!-- ================= FOOTER ================= -->
 <div align="center">
 
-✨ *Code. Build. Learn. Repeat.* ✨
+✨ *Design. Code. Build. Repeat.* ✨  
 
 </div>

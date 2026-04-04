@@ -34,10 +34,10 @@ and enjoy turning ideas into real-world projects.
 <div align="center"> <img src="https://skillicons.dev/icons?i=java,js,python,react,aws,docker,html,css,git" /> </div>
 <!-- ================= GITHUB STATS ================= -->
 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shravya454&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravya454&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </div>
 <!-- ================= ACTIVITY GRAPH ================= -->
 📈 Activity Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravya454&theme=tokyo-night&hide_border=true"/> </div>
 <!-- ================= PROJECTS ================= -->
 🚀 Featured Projects
 <div align="center">

@@ -1,80 +1,94 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,50:feb47b,100:6a11cb&height=200&section=header&text=Hi%20I'm%20Shravya%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff7e5f&height=220&section=header&text=Shravya%20🚀&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
 ---
 
 <!-- ================= INTRO ================= -->
-## 👩‍💻 Hi there! I'm **Shravya**
+<h2 align="center">Hi 👋, I'm Shravya</h2>
 
-🚀 Aspiring Full-Stack Developer passionate about building **robust, scalable, and high-performance applications**  
-💡 I enjoy turning ideas into real-world projects  
-🌱 Currently learning **React, Java Backend & Cloud**
+<p align="center">
+💻 Full-Stack Developer | 🚀 Problem Solver | 🌱 Lifelong Learner
+</p>
+
+<p align="center">
+I build <b>robust, scalable, and user-friendly applications</b>  
+and love turning ideas into real-world projects.
+</p>
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+<!-- ================= ABOUT ME (CODE STYLE) ================= -->
+## 🧠 About Me
+
+```javascript
+const shravya = {
+    pronouns: "she/her",
+    code: ["Java", "JavaScript", "Python"],
+    technologies: {
+        frontend: ["React", "HTML", "CSS"],
+        backend: ["Spring Boot", "Node.js"],
+        cloud: ["AWS"],
+        tools: ["Docker", "Git"]
+    },
+    currentFocus: "Building scalable full-stack applications",
+    funFact: "I love coding + drawing + singing 🎶"
+};
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
+<img src="https://skillicons.dev/icons?i=java,js,python,react,aws,docker,html,css,git" />
 
 </div>
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
 ---
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-## 🐍 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-<!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| 🌟 Project | 📌 Description |
-|-----------|--------------|
-| **Expense Tracker** | Smart expense tracker with alerts <br> 🛠️ Java • React |
-| **Huffman Compressor** | File compression using Huffman coding <br> 🛠️ Java • Spring Boot |
-| **Portfolio Website** | Personal portfolio with modern UI <br> 🛠️ HTML • CSS • JS |
-| **Chat App** | Offline chat application <br> 🛠️ Node.js |
+| 🚀 Project | 📌 Description |
+|----------|--------------|
+| 🔥 Expense Tracker | Smart expense tracking with alerts <br> ⚙️ Java • React |
+| 🧠 Huffman Compressor | File compression using Huffman coding <br> ⚙️ Java |
+| 🌐 Portfolio Website | Modern personal portfolio <br> ⚙️ HTML • CSS • JS |
+| 💬 Chat App | Offline real-time chat app <br> ⚙️ Node.js |
 
 </div>
 
 ---
 
-<!-- ================= FOOTER ================= -->
 <div align="center">
 
-✨ *Design. Code. Build. Repeat.* ✨  
+✨ *"First, solve the problem. Then, write the code."* ✨
 
 </div>

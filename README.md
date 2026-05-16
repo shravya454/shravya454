@@ -23,11 +23,11 @@ and enjoy turning ideas into real-world projects.
 <!-- ================= ABOUT ME ================= -->
 ## 🧠 About Me
 
-- 👩‍💻 Full-Stack Developer passionate about building scalable applications  
+- 👩‍💻 Web Developer passionate about building scalable applications  
 - 💡 Interested in solving real-world problems through technology  
-- 🚀 Currently focusing on React, Java Backend, and Cloud  
+- 🚀 Currently focusing on React, Java Backend, Cloud 
 - 🎯 Goal: Become a skilled Software Developer  
-- 🎨 Hobbies: Drawing, Singing, and Coding  
+- 🎨 Hobbies: Drawing, Coding  
 
 <!-- ================= TECH STACK ================= -->
 🛠️ Tech Stack

@@ -31,6 +31,6 @@ and enjoy turning ideas into real-world projects.
 
 <!-- ================= TECH STACK ================= -->
 🛠️ Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=java,js,python,react,,html,css,git" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=java,js,python,react,html,css,git" /> </div>
 <!-- ================= GITHUB STATS ================= -->
 

@@ -11,7 +11,7 @@
 <h2 align="center">👩‍💻 Hi, I'm Shravya</h2>
 
 <p align="center">
-💻 Full-Stack Developer | 🚀 Problem Solver | 🌱 Learner
+💻 Web Developer | 🚀 Problem Solver | 🌱 Learner
 </p>
 
 <p align="center">
@@ -31,12 +31,6 @@ and enjoy turning ideas into real-world projects.
 
 <!-- ================= TECH STACK ================= -->
 🛠️ Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=java,js,python,react,aws,docker,html,css,git" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=java,js,python,react,,html,css,git" /> </div>
 <!-- ================= GITHUB STATS ================= -->
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shravya454&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravya454&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </div>
-<!-- ================= ACTIVITY GRAPH ================= -->
-📈 Activity Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravya454&theme=tokyo-night&hide_border=true"/> </div>
-<!-- ================= PROJECTS ================= -->
- 
+

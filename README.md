@@ -39,20 +39,4 @@ and enjoy turning ideas into real-world projects.
 📈 Activity Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravya454&theme=tokyo-night&hide_border=true"/> </div>
 <!-- ================= PROJECTS ================= -->
-## 🚀 Featured Projects
-
-- 🔥 **Expense Tracker**  
-  Smart expense tracker with alerts  
-  ⚙️ Java • React  
-
-- 🧠 **Huffman Compressor**  
-  File compression using Huffman coding  
-  ⚙️ Java • Spring Boot  
-
-- 🌐 **Portfolio Website**  
-  Modern personal portfolio  
-  ⚙️ HTML • CSS • JS  
-
-- 💬 **Chat App**  
-  Offline real-time chat app  
-  ⚙️ Node.js  
+ 
